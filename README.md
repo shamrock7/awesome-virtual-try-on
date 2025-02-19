@@ -31,7 +31,7 @@
 - [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion) - 提示：使用 “图像条件 3D 生成” 选项来编辑你的时尚图片。
 - [ThreeStudio](https://github.com/threestudio-project/threestudio) - 提示：在进行时尚图像编辑时，针对基于图像条件的文本提示，使用不同模型来生成输出内容。
 
-## 基于 2D 图像的虚拟试穿<a name='Image-based-2D-Virtual-Try-on></a>
+## 基于 2D 图像的虚拟试穿<a name='Image-based-2D-Virtual-Try-on'></a>
 
 #### AAAI 2025
 
